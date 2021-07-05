@@ -1,5 +1,5 @@
 {
-  "name": "feflow-devkit-ivweb",
+  "name": "feflow-devkit-ivweb-example",
   "version": "0.0.1",
   "description": "webpack项目构建器.",
   "main": "lib/index.js",
