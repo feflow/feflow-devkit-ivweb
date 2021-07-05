@@ -1,0 +1,10 @@
+.idea/
+.DS_Store
+node_modules
+*.log
+*-lock.json
+coverage/
+test/**/dist/
+dist/
+lib/
+**/node_modules
