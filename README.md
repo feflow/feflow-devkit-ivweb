@@ -7,7 +7,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/cpselvis/builder-webpack4/pulls)
 [![developing with feflow](https://img.shields.io/badge/developing%20with-feflow-1b95e0.svg)](https://github.com/feflow/feflow)
 
-Webpack 构建器, 适用于NOW直播业务和活动类型的项目构建
+feflow 套件, 适用于NOW直播业务和活动类型的项目构建
 
 ## 特性
 
